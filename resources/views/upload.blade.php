@@ -45,12 +45,6 @@
                 <div class="col-sm-10">
                     <input type="text" name="penulis" class="form-control" required>
                 </div>
-                <div class="mb-3 row">
-                <label class="col-sm-2 col-form-label">Author</label>
-                <div class="col-sm-10">
-                    <input type="text" name="penulis" class="form-control" required>
-                </div>
-            </div>
             <div class="mb-3 row">
                 <label class="col-sm-2 col-form-label">Kategori</label>
                 <div class="col-sm-10">
